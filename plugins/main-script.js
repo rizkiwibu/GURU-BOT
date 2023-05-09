@@ -4,7 +4,7 @@ let handler = async function (m, { conn, text, usedPrefix }) {
 
 let m2 = `
 ᴛʜᴇ ɢᴜʀᴜ ʙᴏᴛ ꜱᴄʀɪᴘᴛ
-https://github.com/Guru322/GURU-BOT
+https://github.com/rizkiwibu/GURU-BOT
 ᴅᴏ ꜱᴛᴀʀ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ꜰᴏʀᴋ
 `
 let pp = 'AsliGuru' 
